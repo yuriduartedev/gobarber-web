@@ -30,6 +30,8 @@
   ],
   "rules": {
     "camelcase": ["error", {"properties": "never"}],
+    "react/jsx-props-no-spreading": "off",
+    "react/prop-types": "off",
     "prettier/prettier": "error",
     "react/jsx-one-expression-per-line": "off",
     "react-hooks/rules-of-hooks": "error",
